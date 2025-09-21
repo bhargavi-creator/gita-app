@@ -1,6 +1,6 @@
 # gita_app
 
-A new Flutter project.
+A minimalistic gita app where it shows 18 chapters and it's verses in pastel backgrounds.
 
 ## Getting Started
 
